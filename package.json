@@ -1,18 +1,16 @@
 {
   "name": "nerd-fonts",
-  "version": "1.2.0",
-  "description": "Iconic font aggregator, collection, and patcher: 39 patched fonts (87k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack",
+  "version": "1.0.0",
+  "description": "Fonts for use with powerlevel10k",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {
-    "all-contributors-cli": "^4.8.1"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanoasis/nerd-fonts.git"
+    "url": "git+https://github.com/crs1138/nerd-fonts.git"
   },
   "keywords": [
     "fonts",
@@ -28,8 +26,5 @@
   ],
   "author": "Ryan L McIntyre",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ryanoasis/nerd-fonts/issues"
-  },
-  "homepage": "https://github.com/ryanoasis/nerd-fonts#readme"
+  "homepage": "https://github.com/crs1138/nerd-fonts#readme"
 }
